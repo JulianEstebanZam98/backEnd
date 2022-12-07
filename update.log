@@ -1,0 +1,26 @@
+[2022-12-03 14:19:30] [ INFO ] [OdontologoService:23] se registro un odontologo con nombre: Julian 
+[2022-12-03 14:19:37] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-03 14:19:47] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 1
+[2022-12-03 14:19:47] [ WARN ] [OdontologoService:38] Se elimino el odontologo con iD: 1
+[2022-12-03 14:19:47] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-03 14:20:47] [ INFO ] [PacienteService:47] se busco el paciente con correo: julianesteban0112@gmail.com
+[2022-12-03 14:20:48] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Damian
+[2022-12-03 14:20:54] [ INFO ] [PacienteService:43] Se realizo la busqueda de todos los pacientes
+[2022-12-03 14:20:59] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-03 14:21:40] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-03 14:21:40] [ WARN ] [PacienteService:39] Se actualizo el paciente con iD: 1
+[2022-12-03 14:21:40] [ INFO ] [PacienteService:43] Se realizo la busqueda de todos los pacientes
+[2022-12-03 14:21:44] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-03 14:21:44] [ WARN ] [PacienteService:34] Se elimino el paciente con iD: 1
+[2022-12-03 14:22:25] [ INFO ] [OdontologoService:23] se registro un odontologo con nombre: Julian 
+[2022-12-03 14:22:41] [ INFO ] [OdontologoService:23] se registro un odontologo con nombre: Damian
+[2022-12-03 14:22:44] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-03 14:23:14] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 3
+[2022-12-03 14:23:14] [ WARN ] [OdontologoService:33] Se actualizo el odontologo con iD: 3
+[2022-12-03 14:23:17] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-03 14:23:26] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 2
+[2022-12-03 14:23:26] [ WARN ] [OdontologoService:38] Se elimino el odontologo con iD: 2
+[2022-12-03 14:23:26] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-03 14:23:29] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 3
+[2022-12-03 14:23:29] [ WARN ] [OdontologoService:38] Se elimino el odontologo con iD: 3
+[2022-12-03 14:23:29] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
